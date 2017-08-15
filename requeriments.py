@@ -1,0 +1,17 @@
+click==6.7
+dicttoxml==1.7.4
+dominate==2.3.1
+Flask==0.12.2
+Flask-Bootstrap==3.3.7.1
+Flask-Moment==0.5.1
+Flask-Responses==0.2
+Flask-Script==2.0.5
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+psycopg2==2.7.3
+requests==2.18.3
+SQLAlchemy==1.1.13
+urllib3==1.22
+visitor==0.1.3
+Werkzeug==0.12.2
